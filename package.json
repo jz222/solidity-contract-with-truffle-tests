@@ -24,7 +24,7 @@
     "chai-as-promised": "^7.1.1",
     "chai-bignumber": "^2.0.2",
     "coveralls": "^3.0.0",
-    "moment": "^2.22.0",
+    "moment": "^2.29.2",
     "solidity-coverage": "^0.4.2"
   }
 }
